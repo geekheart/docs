@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/geekheart-docs/badge/?version=latest)](https://geekheart-docs.readthedocs.io/zh/latest/?badge=latest)
+
 [English Version](./README.md)
 
 Wireless-tag-FAQ 是由启明云端官方推出的针对常见问题的总结文档。
