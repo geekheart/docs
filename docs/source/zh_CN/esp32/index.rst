@@ -1,18 +1,18 @@
-esp32相关FAQ123
+esp32相关FAQ
 ========================
    
 .. toctree::
    :maxdepth: 2
 
-   蓝牙
-   构建系统
-   c++
-   以太网
-   mesh组网
-   网络
-   外设
-   协议
-   安全
-   存储
-   系统
-   wifi
+   esp32/蓝牙
+   esp32/构建系统
+   esp32/c++
+   esp32/以太网
+   esp32/mesh组网
+   esp32/网络
+   esp32/外设
+   esp32/协议
+   esp32/安全
+   esp32/存储
+   esp32/系统
+   esp32/wifi
