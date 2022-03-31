@@ -4,6 +4,7 @@ esp32相关FAQ
 .. toctree::
    :maxdepth: 2
 
+   wifi
    蓝牙
    构建系统
    c++
@@ -15,4 +16,3 @@ esp32相关FAQ
    安全
    存储
    系统
-   wifi
