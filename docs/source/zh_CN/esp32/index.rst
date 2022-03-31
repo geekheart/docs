@@ -2,9 +2,9 @@ esp32相关FAQ
 ========================
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   wifi
+   无线网络<wifi>
    蓝牙
    构建系统
    c++
