@@ -4,8 +4,8 @@ esp32相关FAQ
 .. toctree::
    :maxdepth: 1
 
-   无线网络 <wifi>
    蓝牙 <bluetooth>
+   无线网络 <wifi>
    构建系统 <build_system>
    c++ <cxx>
    以太网 <ethernet>
