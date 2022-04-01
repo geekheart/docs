@@ -6,7 +6,7 @@ Wireless-tag-FAQ 是由启明云端官方推出的针对常见问题的总结文
 
 ## 文档托管
 
-中文：[https://geekheart-docs.readthedocs.io/zh/latest/esp32/index.html](https://geekheart-docs.readthedocs.io/zh/latest/esp32/index.html)
+中文：[https://wireless-tag-docs.readthedocs.io/zh_CN/latest/about.htmll](https://wireless-tag-docs.readthedocs.io/zh_CN/latest/about.html)
 
 
 ### 语言支持
